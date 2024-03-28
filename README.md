@@ -15,7 +15,7 @@ To dive into the Bigbrain experience, follow these simple steps:
 
 - **Source Code:** The complete source code of the game is housed in the `BIGBRAIN` folder. Feel free to explore the code.
 - **Resources:** The `res` folder contains all the additional files required by the game, such as graphics and text files. These resources are essential for the game's content.
-- **Quiz content**
+- **Quiz content:** The quiz content can be modified via .txt files located in the `res/data` path.
 ## Game preview
 ![Start Screen](screenshots/Start_screen.PNG "Start Screen")
 ![Profile Manager](screenshots/Profile_manager.PNG "Profile Manager")
