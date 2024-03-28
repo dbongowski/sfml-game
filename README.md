@@ -20,7 +20,7 @@ To dive into the Bigbrain experience, follow these simple steps:
 ![Start Screen](screenshots/Start_screen.PNG "Start Screen")
 ![Profile Manager](screenshots/Profile_manager.PNG "Profile Manager")
 ![Level Selection](screenshots/Main_menu.PNG "Level Selection")
-![Inventions](screenshots/Inventions.PNG "Inventions")
+![Inventions](screenshots/Invention.PNG "Inventions")
 ![Geography](screenshots/Geography.PNG "Inventions")
 ![Music](screenshots/Music.PNG "Inventions")
 
