@@ -17,7 +17,7 @@ To dive into the Bigbrain experience, follow these simple steps:
 - **Resources:** The `res` folder contains all the additional files required by the game, such as graphics and text files. These resources are essential for the game's content.
 
 ## Game preview
-![Start Screen](/screenshots/Start_screen.png "Start Screen")
+![Start Screen](screenshots/Start_screen.PNG "Start Screen")
 
 ## License
 
