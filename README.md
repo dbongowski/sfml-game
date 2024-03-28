@@ -16,6 +16,9 @@ To dive into the Bigbrain experience, follow these simple steps:
 - **Source Code:** The complete source code of the game is housed in the `BIGBRAIN` folder. Feel free to explore the code.
 - **Resources:** The `res` folder contains all the additional files required by the game, such as graphics and text files. These resources are essential for the game's content.
 
+## Game preview
+![Start Screen](/screenshots/Start_screen.png "Start Screen")
+
 ## License
 
 This project is licensed under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.en.html). By contributing to this repository, you agree to license your contributions under the same license.
