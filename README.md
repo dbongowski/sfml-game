@@ -2,7 +2,7 @@
 
 Welcome to the repository of Bigbrain, a 2D quiz game that challenges players to match corresponding phrases with unique gameplay mechanics. Developed in C++ and utilizing the SFML library, Bigbrain contains three stages with different characters, where answers are selected in an unusual way - by hitting the box with the character's head.
 
-## Getting Started
+## Running the game
 
 To dive into the Bigbrain experience, follow these simple steps:
 
